@@ -1,4 +1,6 @@
 package com.frontanilla.alejandria.screens;
 
-public class SelectModuleScreen extends MyScreen {
+import com.badlogic.gdx.ScreenAdapter;
+
+public class SelectModuleScreen extends ScreenAdapter {
 }

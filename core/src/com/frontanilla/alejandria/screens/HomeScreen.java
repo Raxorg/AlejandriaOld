@@ -1,5 +1,7 @@
 package com.frontanilla.alejandria.screens;
 
 
-public class HomeScreen extends MyScreen {
+import com.badlogic.gdx.ScreenAdapter;
+
+public class HomeScreen extends ScreenAdapter {
 }

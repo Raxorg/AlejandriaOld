@@ -1,6 +1,11 @@
 package com.frontanilla.alejandria.modules;
 
 public class NateS {
+
+    // HOW TO USE ASSET MANAGER BY NateS
+
+
+
 /*
     // In create:
     assetManager = new AssetManager();

@@ -1,10 +1,11 @@
 package com.frontanilla.alejandria.screens;
 
 
+import com.badlogic.gdx.ScreenAdapter;
 import com.badlogic.gdx.assets.AssetManager;
 import com.frontanilla.alejandria.utils.Assets;
 
-public class SplashScreen extends MyScreen {
+public class SplashScreen extends ScreenAdapter {
 
     private AssetManager assetManager;
     private boolean doneLoading;
